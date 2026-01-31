@@ -1,0 +1,36 @@
+{
+	{
+		topic: git,
+		articles: {
+			pendrive-problem: https://dblabs-git-for-everyone.hashnode.dev/why-version-control-exists-the-pendrive-problem,
+			git-internals: https://dblabs-git-for-everyone.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder,
+			git-intro: https://dblabs-git-for-everyone.hashnode.dev/git-for-everyone-your-first-steps-into-version-control
+	
+		}
+	},
+	{
+		topic: computer-networks,
+		articles: {
+			dns-dig: https://dblabs-computer-networking.hashnode.dev/the-internets-secret-postal-service-unpacking-dns-with-the-dig-command,
+			dns-guide: https://dblabs-computer-networking.hashnode.dev/the-internets-phonebook-a-beginners-guide-to-dns-records,
+			internet-working: https://dblabs-computer-networking.hashnode.dev/how-internet-works-understanding-network-devices
+		}
+	}, 
+	{
+		topics: api-networking
+		articles: {
+			tcp-handshake: https://dblabs-api.hashnode.dev/how-tcp-works-3-way-handshake-and-reliable-communication,
+			tcp-udp: https://dblabs-api.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http,
+			curl: https://dblabs-api.hashnode.dev/a-simple-guide-to-curl-for-the-rest-of-us
+		}
+	},
+	{
+		topics: browser
+		articles: {
+			emmet: https://dblabs-browser-internals.hashnode.dev/a-beginners-guide-to-writing-faster-markup-say-goodbye-to-endless-typing,
+			css-selectors: https://dblabs-browser-internals.hashnode.dev/css-selectors-101-targeting-elements-with-precision,
+			html-tags-elements: https://dblabs-browser-internals.hashnode.dev/html-tags-and-elements-the-simple-guide-to-building-your-web-skeleton
+		}
+	}
+	
+}	
