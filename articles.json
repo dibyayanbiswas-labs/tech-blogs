@@ -27,10 +27,12 @@
 	{
 		topics: browser
 		articles: {
+			browser-internals: https://dblabs-browser-internals.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals,
 			emmet: https://dblabs-browser-internals.hashnode.dev/a-beginners-guide-to-writing-faster-markup-say-goodbye-to-endless-typing,
 			css-selectors: https://dblabs-browser-internals.hashnode.dev/css-selectors-101-targeting-elements-with-precision,
 			html-tags-elements: https://dblabs-browser-internals.hashnode.dev/html-tags-and-elements-the-simple-guide-to-building-your-web-skeleton
 		}
 	}
 	
+
 }	
